@@ -2,7 +2,7 @@
 
 Interactive dashboard analyzing credit delinquency in Brazil using official Central Bank data.
 
-## 🔗 [Live Dashboard](https://estevaorodriguesj.github.io/raio-x-credito-brasil)
+## 🔗 [Live Dashboard](https://estevaorodriguesj.github.io/x-ray-brazil-credit/)
 
 ## 📌 What this project covers
 
